@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "todo": "ReactJS",
+      "id": 1
+    },
+    {
+      "todo": "CSS",
+      "id": 5
+    },
+    {
+      "todo": "Mongoose",
+      "id": 7
+    },
+    {
+      "todo": "node.JS",
+      "id": 8
+    },
+    {
+      "todo": "npm",
+      "id": 9
+    },
+    {
+      "todo": "npx",
+      "id": 10
+    },
+    {
+      "todo": "yarn",
+      "id": 11
+    },
+    {
+      "todo": "ReactNative",
+      "id": 12
+    }
+  ]
+}
